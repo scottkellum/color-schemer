@@ -1,4 +1,1 @@
-color-schemer
-=============
-
-color-schemer
+# [color-schemer has moved](https://github.com/Team-Sass/color-schemer)
